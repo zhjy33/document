@@ -57,3 +57,4 @@ portainer的安装可以依赖于容器，也可以独立安装
 ## 3.dockerswarm
 更新服务docker service update --force --image registry.co/image service
 
+docker无缝更新docker service update --update-parallelism 1 --update-delay 30s --image registry.pm.bwoilmarine.com/vessel_valuation:1.0.5 vessel_valuation
