@@ -14,3 +14,9 @@ https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%9F%BA%E4
 
 DDD领域模型：https://www.cnblogs.com/laozhang-is-phi/p/9832684.html
 
+持续继承部署
+
+高性能、可用性、伸缩性、扩展性、安全性
+
+zookeeper入门：https://blog.csdn.net/java_66666/article/details/81015302
+
